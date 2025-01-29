@@ -1,1 +1,1 @@
-print("skibidi dop dop dop")
+print("skibidi dop dop dop yes yes")
